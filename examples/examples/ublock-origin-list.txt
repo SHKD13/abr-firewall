@@ -1,0 +1,6 @@
+! Anti-Brain Rot Firewall — list for uBlock Origin
+! Blocks or flags Brain Rot content
+||tiktok.com^$document,score=-3
+||youtube.com/shorts/*$document,score=-3   
+||twitch.tv^$document,score=-3
+||instagram.com/reel/*$document,score=-3
