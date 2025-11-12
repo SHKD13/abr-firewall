@@ -1,7 +1,7 @@
 {
   "protocol": "ABRFP-1.3",
   "name": "Anti-Brain Rot Firewall — Final",
-  "author": "ТВОЁ_ИМЯ",
+  "author": "Ruslan Kholodov & Grok 4",
   "description": "The final version of the Anti-Brain Rot open-source protocol for protecting cognitive health (Word of the Year 2024, Oxford)",
   "core_scale": {
     "+3": "Monographs, PhD and doctoral dissertations (including video equivalents) (text ≥150 p. / video ≥2 h.)",
@@ -10,7 +10,7 @@
     "0": "Long-form popular scientific and cultural materials ≥1 h. (including podcasts featuring scientists and cultural figures with long running times), fiction books, cinema, completed musical works (singles, albums, and full-length music videos ≥2 min)",
     "-1": "Regular news feeds from specialized resources, seasonal broadcasts of sports competitions, TV shows & series (including dramas and sitcoms), short-form popular scientific and cultural materials <1 h.",
     "-2": "Private publications, threads and comments on social media, entertaining video blogs and streams",
-    "-3": "Fragmented audiovisual content from social media, gaming, and potentially harmful content (including pseudoscience, propaganda of destructive practices, and fraudulent schemes)"
+    "-3": "Fragmented audiovisual content from social media, gaming, and potentially harmful content (including pseudoscience, propaganda of destructive practices, and fraudulent schemes)",
   },
   "key_principle": "Narrative integrity x proven author's professionalism = the only reliable marker of protection against Brain Rot.",
   "version": "1.3 Final",
