@@ -1,7 +1,7 @@
 {
   "protocol": "ABRFP-1.3",
   "name": "Anti-Brain Rot Firewall — Final",
-  "author": "Ruslan Kholodov & Grok 4",
+  "author": "Ruslan Kholodov & Grok 4 (xAI)",
   "description": "The final version of the Anti-Brain Rot open-source protocol for protecting cognitive health (Word of the Year 2024, Oxford)",
   "core_scale": {
     "+3": "Monographs, PhD and doctoral dissertations (including video equivalents) (text ≥150 p. / video ≥2 h.)",
